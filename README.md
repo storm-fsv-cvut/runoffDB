@@ -35,6 +35,7 @@ The core entities that hold the most information are:
 </ul>
 <p>For an organizational purposes one single run is always part of a sequence of simulations (experiments performed <strong>after</strong> each other, though the sequence may contain just a single run). In case of artificial rainfall campaigns the sequence represents a series of experiments that was performed between a rainfall simulator was installed and removed afterwards at a certain spot.</p>
 <p>Similarily a single run is always a part of one 'run group' that represents experiments happening <strong>alongside</strong> each other, for the experimental set-ups where more then one bounded plot is being rained-on simultaneusly</p>
+<ul>
   <li><strong>sequence</strong> - stores properties of the experimental run sequence</li>
   <li><strong>run_group</strong> - stores properties of the experimental run group</li>
 </ul>
