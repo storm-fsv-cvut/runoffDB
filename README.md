@@ -75,7 +75,7 @@ The core entities that hold the most information are:
   <li><strong>agrotechnology</strong> - stores properties of agricultural management practices, basicly only name, description and notes because the detailed properties are consequence of a particular 'tillage_sequence'</li>
   <li><strong>tillage_sequence</strong> - stores definitions of date-related tillage operation set representing a sequence of agro-management operations performed on a particular 'plot', each 'agrotechnology' contains at least one 'operation' in a 'tillage_sequence'</li>
 </ul>
-<p>Though none of the runoffDB tables is immutable, following tables are the least expected to change as they serve as a domain definitions for some of the properties used in other tables (e.a. entitites). Again the main reason is to keep apart the textual properties (names, descriptions, etc.) and the conceprual meaning of the entry.</p>
+<p>Though none of the runoffDB tables is immutable, following tables are the least expected to change as they serve as a domain definitions for some of the properties used in other tables (e.a. entitites). Again the main reason is to keep apart the textual properties (names, descriptions, etc.) and the conceptual meaning of the entry.</p>
 <p>Complete set of values in this group of tables may be examined within the sample dataset provided in this repository.</p>
 <ul>
   <li><strong>assignment_type</strong> - defines possible character of real-world relation between a sample and it's 'worth' to particular entity to which it has been assigned.</li>
