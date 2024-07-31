@@ -82,7 +82,7 @@ The core entities that hold the most information are:
   <li><strong>crop_er_type</strong> - ad-hoc classification of crops regarding their character related to soil erosion susceptibility</li>
   <li><strong>crop_type</strong> - agricultural classification of crops</li>
   <li><strong>operation_intensity</strong> - defines set of tillage operation character regarding the disturbance of top-soil layer</li>
-  <li><strong>operation_type</strong> - defines set of tillage operation type regarding the general agro-management actions (soil preparation, seeding, saw, etc. - </li>
+  <li><strong>operation_type</strong> - defines set of tillage operation type regarding the general agro-management actions (soil preparation, seeding, saw, etc.)</li>
   <li><strong>quality_index</strong> - defines levels of assumed quality of a 'record' entity, implemented especially for selecting 'the best' record where more records are existing in the DB and only one is needed for a particular export action, strong effort was put to detailed definition of each quality level, however objectivity of such property may be disscussed</li>
   <li><strong>run_type</strong> - allowed values set for 'run type' property according to (Seibert et al., 2011)</li>
   <li><strong>record_type</strong> - definition of possible types of record regarding its origin, level of processing and relations to other records</li>
