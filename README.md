@@ -49,7 +49,6 @@ The core entities that hold the most information are:
   <li><strong>record</strong> - stores properties of a record</li>
   <li><strong>record_record</strong> - stores parent-child (source-derivate) relations between records</li>
   <li><strong>data</strong> - stores the data point values</li>
-  <li><strong></strong> - </li>
 </ul>
 <p>Following set of tables exists in the runoffDB to keep track of data 'owners' and research funding sources. Each simulation run sequence can be par of various projects and various organizations can take part in each project.</p>
 <ul>
