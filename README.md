@@ -26,7 +26,7 @@
 <p>The runoffdb_miner has its own repository at https://github.com/storm-fsv-cvut/runoffdb_miner</p>
 
 # Database structure description
-<p>The full database structure currently consists of 38 tables. These tables store propertes of entities in the runoffdb or define allowed values (domaines) for these propertes.</p>
+<p>The full database structure currently consists of 38 tables. These tables store propertes of entities in the runoffdb or define allowed values (domaines) for these properties.</p>
 The core entities that hold the most information are:
 <ul>
   <li><strong>run</strong> - represents a single simulation run or an isolated rainfall event</li>
