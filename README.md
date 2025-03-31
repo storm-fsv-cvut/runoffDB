@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/610790162.svg)](https://doi.org/10.5281/zenodo.15116311)
 # RunoffDB
 <p>This database was created to provide an open platform for storing and sharing measured data associated with rainfall-runoff events. Each experimental watershed and rainfall simulator is unique, and so are the procedures for measuring, recording, processing, storing and using the data. Utilizing data from different sources for mutual comparison or for a common purpose can be very challenging because of the different methods for processing and storing data at different workplaces.</p>
 <p>The database structure was designed to store data and metadata related to rainfall-runoff experiments and measurements in general but expanding the structure for other kind of collected hydrological research data is one of the future goals.</p>
